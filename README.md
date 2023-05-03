@@ -36,13 +36,21 @@ pip install requests
 To configure the program, you will need to set the following constants in the workout_tracker.py file:
 
 GENDER: Your gender ('male' or 'female').
+
 WEIGHT_KG: Your weight in kilograms.
+
 HEIGHT_CM: Your height in centimeters.
+
 AGE: Your age.
+
 APP_ID: Your Nutritionix API ID.
+
 API_KEY: Your Nutritionix API key.
+
 exercise_endpoint: The Nutritionix API endpoint for exercise tracking.
+
 sheet_endpoint: The Sheety API endpoint for logging the exercise details.
+
 You will also need to provide your Sheety API username and password for authentication.
 
 ## License
